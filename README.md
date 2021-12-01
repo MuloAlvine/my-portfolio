@@ -1,1 +1,1 @@
-# This a portfolio build with recat and a bit of typescript
+# This a portfolio built with react and a bit of typescript
