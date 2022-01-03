@@ -10,14 +10,11 @@ const Project = () => {
         <section className="section project">
             {/* section title */}
             <div className="project-title">
-                <h2>latest works</h2>
+                <h2>My Works</h2>
                 <div className="underline"></div>
                 <p className="projects-text">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium
-                    repudiandae cupiditate ea facilis incidunt, non sapiente! Debitis
-                    magnam, earum assumenda obcaecati cum quaerat facere ratione molestiae
-                    dignissimos aliquid blanditiis architecto voluptates delectus
-                    voluptate animi nulla! Autem explicabo perspiciatis officia ea.
+                   I worked for Enable.World, and now I am developing my own projects with React on front end and Nodejs on Back end. I also spend my time learning new technologies
+                   with Html, Css, Javascript, React, Nodejs, Express, MongoDB, Postgresql, Mysql, Git and Github , RestApi, Jwt, figma, MaterialUi and so forth
                 </p>
             </div>
 
@@ -32,8 +29,8 @@ const Project = () => {
                             className="project-img"
                         />
                         <div className="project-info">
-                            <h4>project title</h4>
-                            <p>client name</p>
+                            <h4>Automation With Javascript and Excel</h4>
+                            <p>Enable.World</p>
                         </div>
                     </article>
                 </a>
@@ -47,8 +44,8 @@ const Project = () => {
                             className="project-img"
                         />
                         <div className="project-info">
-                            <h4>project title</h4>
-                            <p>client name</p>
+                            <h4>Online Market</h4>
+                            <p>Alvine.Mulo</p>
                         </div>
                     </article>
                 </a>
@@ -61,8 +58,8 @@ const Project = () => {
                             className="project-img"
                             />
                         <div className="project-info">
-                            <h4>project title</h4>
-                            <p>client name</p>
+                            <h4>RestApi</h4>
+                            <p>Alvien.Mulo</p> 
                         </div>
                     </article>
                 </a>
@@ -75,8 +72,21 @@ const Project = () => {
                             className="project-img"
                         />
                         <div className="project-info">
-                            <h4>project title</h4>
-                            <p>client name</p>
+                            <h4>Backend Ecommerce</h4>
+                            <p>Alvine.Mulo</p>
+                        </div>
+                    </article>
+                </a>
+                <a href="projects.html" className="project-5">
+                    <article className="project">
+                        <img
+                            src={computer}
+                            alt="single project"
+                            className="project-img"
+                        />
+                        <div className="project-info">
+                            <h4>Automation With Javascript and Excel</h4>
+                            <p>Enable.World</p>
                         </div>
                     </article>
                 </a>

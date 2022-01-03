@@ -17,17 +17,14 @@ const Connect = () =>{
       </video>
       <div className="video-banner">
         {/* <!-- section title --> */}
-        <div className="section-title">
-          <h2>let's connect</h2>
+        <div className="connect-title">
+          <h2>Contact Me</h2>
           <div className="underline"></div>
         </div>
         {/* <!--end of section title --> */}
         <p className="video-text">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni ratione
-          perferendis exercitationem sit. Beatae eius commodi officiis rem
-          soluta ratione dignissimos quisquam tempore laudantium, porro vitae
-          cupiditate dicta magni quas corrupti aperiam, rerum minus odio totam
-          repellendus delectus nostrum veniam!
+          Contact me via my phone number
+          or email address provided below and on the footer
         </p>
         <a href="contact.html" className="btn">elvismulowayi@gmail.com</a><br/>
         <a href="contact.html" className="btn">0629533613</a>

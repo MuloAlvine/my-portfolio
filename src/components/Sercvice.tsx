@@ -11,13 +11,15 @@ const Sercvice = () => {
         <div className="services-center section-center">
           
           <article className="service">
-            <i className="fas fa-code service-icon"></i>
+            
+            
+
             <h4>web development</h4>
             <div className="underline"></div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates
-              corrupti animi saepe quasi excepturi cupiditate voluptate dolor sed
-              obcaecati vero.
+                I work with multiple technologies to develop web. 
+                You want your website to look stunning and visually appealing, 
+                please contact me on my contact details below.
             </p>
           </article>
           
@@ -26,20 +28,19 @@ const Sercvice = () => {
             <h4>web design</h4>
             <div className="underline"></div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates
-              corrupti animi saepe quasi excepturi cupiditate voluptate dolor sed
-              obcaecati vero.
+                I work with multiple technologies to develop web. 
+                You want your website to look stunning and visually appealing, 
+                please contact me on my contact details below.
             </p>
           </article>
           
           <article className="service">
-            <i className="fab fa-android service-icon"></i>
             <h4>software development</h4>
             <div className="underline"></div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates
-              corrupti animi saepe quasi excepturi cupiditate voluptate dolor sed
-              obcaecati vero.
+                I work with multiple technologies to develop web. 
+                You want your website to look stunning and visually appealing, 
+                please contact me on my contact details below.
             </p>
             
           </article>
